@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\lance\\OneDrive - UMGC\\JOGL\\gluegen-rt.jar",
+        "c:\\Users\\lance\\OneDrive - UMGC\\JOGL\\gluegen-rt-natives-windows-amd64.jar",
+        "c:\\Users\\lance\\OneDrive - UMGC\\JOGL\\jogl-all.jar",
+        "c:\\Users\\lance\\OneDrive - UMGC\\JOGL\\jogl-all-android-natives-windows-amd64.jar"
+    ]
+}
